@@ -1,4 +1,4 @@
-package LAB3;
+package Lab3;
 
 public class ex_for {
     public static void main(String[] args) {
