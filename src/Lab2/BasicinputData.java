@@ -2,7 +2,7 @@ package Lab2;
 
 import java.util.Scanner;
 
-public class BasicinputData {
+public class BasicInputData {
 
     public static void main(String[] args) {
 
@@ -12,8 +12,6 @@ public class BasicinputData {
         int num = scanner.nextInt();
 
         System.out.println("The number is "+num);
-
-
 
     }
 }
