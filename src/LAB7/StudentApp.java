@@ -7,14 +7,14 @@ public class StudentApp {
 
         std1.introduce();
         //assign data to object
-        std1.name = "Puriwat Lertkrai";
+        std1.name = "Chiranan Chanrodi";
         std1.age = 34;
         std1.major = "MIT";
 
         std1.introduce();
 
         Student std2 = new Student();
-        std2.name = "Piyapong Senanut";
+        std2.name = "Chiranan Chanrod";
         std2.age = 37;
         std2.major = "AC";
         std2.introduce();

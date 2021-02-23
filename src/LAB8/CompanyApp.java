@@ -6,8 +6,8 @@ public class CompanyApp {
 
         Employee emp1 = new Employee();
 
-        emp1.setPid("180991102541");
-        emp1.setName("Puriwat Lertkrai");
+        emp1.setPid("1809800147676");
+        emp1.setName("Chiranan Chanrod");
         emp1.setAge(34);
         emp1.setGender("Male");
         emp1.setTel("083539xxxx");
